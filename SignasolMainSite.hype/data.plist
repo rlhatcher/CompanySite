@@ -21,7 +21,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2013-01-25T23:21:13Z</date>
+	<date>2013-01-25T23:52:52Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -2476,7 +2476,7 @@
 				<key>timeCursors</key>
 				<dict>
 					<key>kTimelineDefaultIdentifier</key>
-					<real>5</real>
+					<real>0.0</real>
 				</dict>
 				<key>timescale</key>
 				<integer>60</integer>
@@ -3309,7 +3309,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>532D9F9E-A3C7-4F21-9330-D8603AB87D30-4922-00023D01C0F70E34</string>
+								<string>CFE51DD2-F68A-4BE9-B2DE-E80A2A4E904C-4922-00023E859ADBA0D1</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -3376,13 +3376,13 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2</real>
+								<real>1</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
 									<string>Opacity</string>
 									<key>objectValue</key>
-									<string>0.000000</string>
+									<string>1.000000</string>
 								</dict>
 								<key>identifier</key>
 								<string>Opacity</string>
@@ -3404,7 +3404,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>6304EB63-6CF8-44C4-8D03-469A0DA2EDF2-4922-00023D01C0FB7B26</string>
+								<string>5207CEF5-F058-47A3-90E5-4273EC712F1C-4922-00023E8CA5442E31</string>
 								<key>zIndex</key>
 								<integer>2</integer>
 							</dict>
@@ -3443,40 +3443,6 @@
 									<key>identifier</key>
 									<string>Opacity</string>
 									<key>objectValue</key>
-									<string>1.000000</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>12</string>
-								<key>startTime</key>
-								<real>4</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.000000</string>
-								</dict>
-								<key>timingFunction</key>
-								<string>easeinout</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>AC7F5DD1-5052-41EF-90A4-368C62C86A14-4922-00023D3E6B756723</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
 									<string>0.000000</string>
 								</dict>
 								<key>identifier</key>
@@ -3505,7 +3471,48 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.0</real>
+								<real>1</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.000000</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>11</string>
+								<key>startTime</key>
+								<real>4</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>853E75E0-95DC-44B6-A119-94C2D4B9F552-4922-00023E8FFB512CEA</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
 								<key>identifier</key>
 								<string>Opacity</string>
 								<key>isRelative</key>
@@ -3519,16 +3526,16 @@
 									<key>identifier</key>
 									<string>Opacity</string>
 									<key>objectValue</key>
-									<string>1.000000</string>
+									<string>0.000000</string>
 								</dict>
 								<key>timingFunction</key>
 								<string>easeinout</string>
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>F0BFBA04-2E74-402E-9DC7-FDA272EF47C3-4922-00023D44DA313DEA</string>
+								<string>AC7F5DD1-5052-41EF-90A4-368C62C86A14-4922-00023D3E6B756723</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>1</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -3580,9 +3587,36 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>800191D5-5B53-4AAA-A526-5DC19DCD200E-4922-00023D01C0FEF681</string>
+								<string>723B29FA-DB19-469B-90B1-7E318DBC448C-4922-00023E933CC4D94F</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>12</string>
+								<key>startTime</key>
+								<real>6</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.000000</string>
+								</dict>
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F0BFBA04-2E74-402E-9DC7-FDA272EF47C3-4922-00023D44DA313DEA</string>
+								<key>zIndex</key>
+								<integer>2</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -3608,7 +3642,7 @@
 			<string>{0, 13}</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>11</string>
+				<string>12</string>
 			</array>
 			<key>showTimelineActions</key>
 			<false/>
