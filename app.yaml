@@ -1,0 +1,20 @@
+application: signasol
+version: 2
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /SignasolCompany.hyperesources
+  static_dir: SignasolCompany.hyperesources
+- url: /images
+  static_dir: images
+- url: /css
+  static_dir: css
+  
+- url: /.*
+  script: signasol.app
+  
+libraries:
+- name: jinja2
+  version: latest
