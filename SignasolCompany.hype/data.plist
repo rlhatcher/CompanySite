@@ -7,7 +7,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentScene</key>
-	<string>9EC67858-A7A4-471F-8E47-60326BB54357-410-000010BB73B3FEBF</string>
+	<string>EFD3C674-11FC-49ED-B61B-A8FE0A57EB25-192-00000F02B3EF0406</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -27,7 +27,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-04-15T10:20:02Z</date>
+	<date>2014-04-15T10:23:11Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -3871,7 +3871,7 @@
 										<key>sceneOid</key>
 										<string>BC2C356D-C07B-4569-BEB9-4C4D99016605-613-00001DA7BEB908EB</string>
 										<key>transition</key>
-										<integer>7</integer>
+										<integer>6</integer>
 										<key>type</key>
 										<integer>1</integer>
 									</dict>
@@ -17619,9 +17619,7 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>A02A9407-FD3B-456D-85D8-F2660AB9DCB4-192-00000F02B22BA5DD</string>
-			</array>
+			<array/>
 			<key>splitHeight</key>
 			<real>569</real>
 		</dict>
