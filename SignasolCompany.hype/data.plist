@@ -7,7 +7,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentScene</key>
-	<string>150</string>
+	<string>176</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -27,7 +27,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-04-15T08:59:53Z</date>
+	<date>2014-04-15T09:03:54Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -41871,7 +41871,7 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<key>identifier</key>
 							<string>Overflow</string>
 							<key>objectValue</key>
-							<string>auto</string>
+							<string>hidden</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -42077,7 +42077,7 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<key>identifier</key>
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#AAAAAA</string>
+							<string>#EBEBEB</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -42141,12 +42141,6 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundGradientStartColor</string>
-							<key>objectValue</key>
-							<string>#FFFFFF</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>WhiteSpaceCollapsing</string>
 							<key>objectValue</key>
 							<string>preserve</string>
@@ -42174,12 +42168,6 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundGradientAngle</string>
-							<key>objectValue</key>
-							<string>0deg</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -42246,12 +42234,6 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<string>Overflow</string>
 							<key>objectValue</key>
 							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundGradientEndColor</string>
-							<key>objectValue</key>
-							<string>#D6D6D6</string>
 						</dict>
 					</array>
 				</dict>
