@@ -7,7 +7,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentScene</key>
-	<string>176</string>
+	<string>124</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -27,7 +27,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2014-04-15T09:03:54Z</date>
+	<date>2014-04-15T09:54:49Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -31441,6 +31441,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>36</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
 							<string>452px</string>
@@ -31449,7 +31455,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(153, 153, 153); font-size: 27px; "&gt;Initial implementation is only the beginning. Successfully maintaing long term automation using standard tools such as Puppet, Chef and Vagrant is all part of our signature solution&lt;/span&gt;&lt;/div&gt;</string>
+							<string>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(153, 153, 153); font-size: 27px; "&gt;Initial implementation is only the beginning. Successfully maintaining long term automation using standard tools such as Puppet, Chef and Vagrant is all part of our signature solution.&lt;/span&gt;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -37277,7 +37283,9 @@
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>128</string>
+			</array>
 			<key>splitHeight</key>
 			<real>569</real>
 		</dict>
@@ -38505,6 +38513,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AutoresizingMask</string>
+							<key>objectValue</key>
+							<string>36</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
 							<string>452px</string>
@@ -38513,7 +38527,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(153, 153, 153); font-size: 27px; "&gt;Signasol specialises in Enterprise level integration and provides thought leadership, strategy and implementation capabilities.&lt;/span&gt;&lt;/div&gt;</string>
+							<string>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(153, 153, 153); font-size: 27px; "&gt;Signasol specialises in Enterprise-level integration and provides thought leadership, strategy and implementation capabilities.&lt;/span&gt;&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -41988,7 +42002,7 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>23</string>
+							<string>24</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -42101,13 +42115,13 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<key>identifier</key>
 							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>#919191</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Latest news and Updates from Signasol</string>
+							<string>Latest News and Updates from Signasol</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -42149,7 +42163,7 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>24</string>
+							<string>23</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -43961,7 +43975,7 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;div&gt;You can also click on the relevant icon above to follow us or connect with us via Facebook, Twitter, Google+, LinkedIn, YouTube or our company blog&lt;/div&gt;</string>
+							<string>&lt;div&gt;You can also click on the relevant icon above. To follow us or connect with us via Facebook, Twitter, Google+, LinkedIn, YouTube or our company blog.&lt;/div&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -45790,7 +45804,9 @@ Blog Update - &lt;font color="#000000"&gt;&lt;strong&gt;&lt;a href="http://blog.
 			<key>scrollViewOffset</key>
 			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>161</string>
+			</array>
 			<key>splitHeight</key>
 			<real>569</real>
 		</dict>
